@@ -1,0 +1,22 @@
+{
+  "name": "rdnd-backend",
+  "version": "0.0.1",
+  "description": "a backend for rdnd-sites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeruMx/React-drag-n-drop-sites.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "@KeruMx, @Ivanjeanca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KeruMx/React-drag-n-drop-sites/issues"
+  },
+  "homepage": "https://github.com/KeruMx/React-drag-n-drop-sites#readme"
+}
