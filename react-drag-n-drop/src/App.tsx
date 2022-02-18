@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with Kru
+          Learn React with Kru asdkjklsdaljlads asjkñkldaskjlkads lñ
         </a>
       </header>
     </div>
